@@ -38,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,mysql,git,github,vercel,docker" />
 </p>
 
+---
 
 ## GitHub
 

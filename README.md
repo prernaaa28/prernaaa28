@@ -40,29 +40,29 @@
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&theme=tokyonight&cache_seconds=86400"
-    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=prernaaa28&show_icons=true&theme=tokyonight"
+    width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight&cache_seconds=86400"
-    width="300"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=prernaxa&theme=tokyonight&cache_seconds=86400"
-    width="450"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaaa28&layout=compact&theme=tokyonight"
+    width="41%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=true&margin-w=8"
+    src="https://streak-stats.demolab.com/?user=prernaaa28&theme=tokyonight"
+    width="50%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=prernaaa28&theme=radical&no-frame=true&margin-w=8"
     width="800"
   />
 </p>

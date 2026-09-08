@@ -34,27 +34,18 @@
 
 ## Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
+</p>
 
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript`
-
-**Frontend**
-
-`React` · `Next.js` · `Tailwind CSS`
-
-**Backend**
-
-`Node.js` · `Express.js` · `REST APIs`
-
-**Databases**
-
-`MongoDB` · `PostgreSQL`
-
-**Tools & DevOps**
-
-`Git` · `GitHub` · `Docker` · `Vercel` · `Postman`
-
----
 
 ## GitHub
 

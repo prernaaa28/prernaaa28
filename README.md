@@ -35,15 +35,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,mysql,git,github,vercel,docker" />
 </p>
 
 

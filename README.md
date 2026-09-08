@@ -1,16 +1,107 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Prerna 👋</h1>
 
-<!--
-**prernaaa28/prernaaa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Full-stack developer building web apps that (mostly) don't break.</em><br>
+  Final-year CS student · Product-focused engineer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Actively seeking SWE roles</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### 🔐 [PolicyPal](https://github.com/prernaxa/PolicyPal)
+
+**AI-powered privacy policy analyzer that translates legalese into plain English.**
+
+* Analyze a URL, PDF, or raw text and get instant risk summaries
+* Combines GPT-4o with rule-based NLP to extract insights
+* Generates trust scores and flags ad tracking, data retention, and more
+* `Next.js` · `Tailwind` · `Framer Motion` · `OpenAI API` · `MongoDB` · `Clerk`
+
+### 🎙️ [Voxcast.ai](https://github.com/prernaxa/voxcast.ai)
+
+**AI-powered podcast platform that turns scripts into audio episodes.**
+
+* Turn outlines into full conversations with selectable character voices
+* Co-built voice logic, UX flows, and onboarding
+* `OpenAI` · `Next.js`
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript`
+
+**Frontend**
+
+`React` · `Next.js` · `Tailwind CSS`
+
+**Backend**
+
+`Node.js` · `Express.js` · `REST APIs`
+
+**Databases**
+
+`MongoDB` · `PostgreSQL`
+
+**Tools & DevOps**
+
+`Git` · `GitHub` · `Docker` · `Vercel` · `Postman`
+
+---
+
+## GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prernaxa&show_icons=true&theme=tokyonight&cache_seconds=86400"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaxa&layout=compact&theme=tokyonight&cache_seconds=86400"
+    width="300"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=prernaxa&theme=tokyonight&cache_seconds=86400"
+    width="450"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=prernaxa&theme=radical&no-frame=true&margin-w=8"
+    width="800"
+  />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prernaprakash28/">
+    LinkedIn
+  </a>
+  &nbsp; · &nbsp;
+  <a href="mailto:prerna.ecjbi7@gmail.com">
+    Email
+  </a>
+  &nbsp; · &nbsp;
+  <a href="https://portfolio-prerna.vercel.app/">
+    Portfolio
+  </a>
+</p>
+
+<p align="center">
+  <em>“There are two ways to write error-free programs; only the third one works.”</em><br>
+  — Alan J. Perlis
+</p>

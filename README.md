@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Prerna 👋</h1>
 
 <p align="center">
-  <em>Full-stack developer building web apps that (mostly) don't break.</em><br>
-  Final-year CS student · Product-focused engineer
+  <em>Full-stack developer · Product-focused engineer</em>
 </p>
 
 <p align="center">
-  <strong>Actively seeking SWE roles</strong>
+  Building web apps that (mostly) don't break.
 </p>
 
 ---
+
 
 ## Featured Projects
 
